@@ -20,7 +20,7 @@
     "skyway-js": "^1.1.17",
     "vue": "^2.5.2",
     "vuex": "^3.0.1",
-    "webpack-dev-server": "^2.11.1",
+    "webpack-dev-server": "^2.11.5",
     "yaml-loader": "^0.5.0"
   },
   "devDependencies": {
@@ -78,7 +78,7 @@
     "vue-style-loader": "^3.0.1",
     "vue-template-compiler": "^2.5.2",
     "webpack": "*",
-    "webpack-bundle-analyzer": "*",
+    "webpack-bundle-analyzer": "^3.6.0",
     "webpack-cli": "*",
     "webpack-merge": "*"
   },
